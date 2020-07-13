@@ -1,0 +1,10 @@
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+H:\Second Year\Algorithm and Data Stuctures\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
